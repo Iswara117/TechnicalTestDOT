@@ -7,4 +7,4 @@ because mvc is very easy to manage simple rest api compared to service repositor
 
 ## API DOCUMENTATION
 
-[postman](https://documenter.getpostman.com/view/20313352/2s93eSZvaL
+[postman](https://documenter.getpostman.com/view/20313352/2s93eSZvaL)
